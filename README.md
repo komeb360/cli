@@ -1,0 +1,2 @@
+# cli
+A simple cli
